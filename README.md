@@ -1,6 +1,7 @@
 # Meme Generator
 
 This is a project that allows you to create memes with images and text.
+This project is made with vite + react with Javascript (vanilla)
 
 ## How to use
 
