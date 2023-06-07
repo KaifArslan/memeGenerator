@@ -17,11 +17,10 @@ To use this project, you need to:
 
 Here are some examples of memes created with this project:
 
-![A meme of a dog with the text "This is fine"](imageNOmeme.jpg)
+![Project at Startup](Images/Screenshot 2023-06-07 165232.png)
 
-![A meme of a baby with the text "Success!"](imageMeme.jpg)
+![Project working (it requires some styling fixes)](Images/Screenshot 2023-06-07 171927.png)
 
-![A meme of a cat with the text "I should buy a boat"](image3.jpg)
 
 ## Credits
 
