@@ -17,9 +17,9 @@ To use this project, you need to:
 
 Here are some examples of memes created with this project:
 
-![Project at Startup](Images/Screenshot 2023-06-07 165232.png)
+![Project at Startup](Screenshot1.png)
 
-![Project working (it requires some styling fixes)](Images/Screenshot 2023-06-07 171927.png)
+![Project working (it requires some styling fixes)](Screenshot2.png)
 
 
 ## Credits
